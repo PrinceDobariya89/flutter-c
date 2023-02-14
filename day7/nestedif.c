@@ -32,7 +32,13 @@ void main(){
                 printf("e is bigger");
              }
             }else{
-                printf("d is bigger");
+                if (d>e)    
+                {
+                    printf("d is bigger");
+                }else{
+                    printf("e is bigger");
+                }
+                
             }
         }
     }
