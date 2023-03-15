@@ -1,0 +1,2 @@
+// Program to find length of string using pointer
+
